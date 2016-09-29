@@ -1,0 +1,21 @@
+{
+  "name": "arita_clinic",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "thaissak <thaissa.kobayashi@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thaissak/arita_clinic",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "angular": "^1.5.8"
+  }
+}
